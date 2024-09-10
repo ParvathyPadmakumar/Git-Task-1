@@ -1,0 +1,2 @@
+Hey! I am Parvathy Padmakumar. I am a student of B.Tech Computer Science at Amrita Vishwa Vidyapeetham, Amrithapuri campus. I am from Thiruvananthapuram. I have a passionate interest in coding and have learned java, python and c languages. I especially like CTFs, hackathons, cyber security, web development and competitive programming. I have worked a lot to get into Bi0s and really hope I get in. Besides programming, I am an author and have two published books and numerous featured articles in magazines.}
+commit:1f21a5cc60ea3fba712ef6ede43862de99f7158a
