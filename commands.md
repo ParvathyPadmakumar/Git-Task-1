@@ -37,3 +37,4 @@ created commands.md and adding to main branch
 
 9.
 git push origin main
+git pull origin main
